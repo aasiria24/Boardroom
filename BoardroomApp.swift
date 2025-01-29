@@ -11,7 +11,8 @@ import SwiftUI
 struct BoardroomApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            LoginView()
+            BoardroomMainView()
         }
     }
 }
